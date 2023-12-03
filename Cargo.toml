@@ -1,4 +1,4 @@
 [workspace]
 resolver = "2"  
-default-members = ["part1"]
-members = ["part1"]
+default-members = ["part2"]
+members = ["part1", "part2"]
